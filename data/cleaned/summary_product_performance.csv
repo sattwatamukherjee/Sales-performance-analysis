@@ -1,0 +1,231 @@
+Product Name,Revenue,Profit,Units,Orders,Profit Margin %
+Canon imageCLASS Copier Pro,108567.65000000001,7507.320000000001,92,35,6.9
+Canon imageCLASS Copier Deluxe,104943.54000000001,15298.130000000001,68,25,14.6
+Hewlett Packard Copier Pro,88981.73,8379.34,65,25,9.4
+Canon imageCLASS Copier Standard,83069.18000000001,5197.21,71,31,6.3
+Hewlett Packard Copier Deluxe,78666.97,1347.9799999999998,64,29,1.7
+Canon imageCLASS Copier Classic,73729.56999999999,605.1099999999999,64,26,0.8
+Hewlett Packard Copier Standard,71206.81,8542.48,53,23,12.0
+Canon imageCLASS Copier Value,54149.35,1752.09,45,23,3.2
+Hewlett Packard Copier Classic,47171.869999999995,1745.68,39,16,3.7
+Cubify 3D Printer Standard,33578.02,3658.92,47,17,10.9
+Lexmark Printer Deluxe,33158.42,3286.02,50,24,9.9
+Hewlett Packard Copier Value,31806.870000000003,1052.61,30,13,3.3
+Cubify 3D Printer Classic,30591.7,3106.5099999999998,47,20,10.2
+Lexmark Printer Value,29548.71,2260.37,47,19,7.6
+Cubify 3D Printer Value,26004.44,2744.96,41,18,10.6
+Lexmark Printer Standard,25226.77,1530.95,39,20,6.1
+Zebra Label Printer Value,23581.04,-231.7399999999998,40,18,-1.0
+Zebra Label Printer Pro,23328.33,151.7299999999999,40,18,0.7
+Cubify 3D Printer Pro,22815.15,-5797.95,46,18,-25.4
+Lexmark Printer Classic,22557.239999999998,883.0999999999998,43,17,3.9
+Zebra Label Printer Deluxe,22524.98,1851.49,33,20,8.2
+Zebra Label Printer Classic,22011.16,-468.3999999999999,39,16,-2.1
+Bevis Table Standard,21154.059999999998,1557.96,63,28,7.4
+Chromcraft Round Table Classic,18523.4,2318.07,52,21,12.5
+O'Sullivan Bookcase Deluxe,18473.61,3712.2,64,25,20.1
+Bretford Conference Table Value,18133.2,1140.38,60,23,6.3
+Chromcraft Round Table Deluxe,17991.43,936.8799999999998,57,23,5.2
+Bevis Table Classic,17931.22,1515.04,54,26,8.4
+Lexmark Printer Pro,16844.39,707.5799999999999,29,12,4.2
+Sauder Bookcase Pro,16106.84,3259.86,60,25,20.2
+Bretford Conference Table Deluxe,16073.76,974.77,54,25,6.1
+Bevis Table Pro,15379.26,1253.3400000000001,50,21,8.1
+Bretford Conference Table Classic,15116.86,636.95,53,21,4.2
+O'Sullivan Bookcase Pro,14995.55,756.15,67,22,5.0
+Zebra Label Printer Standard,14823.31,-238.65999999999997,27,13,-1.6
+Bush Classic Bookcase Standard,14612.119999999999,2982.55,54,24,20.4
+Bush Classic Bookcase Classic,14543.460000000001,1966.48,58,26,13.5
+Samsung Galaxy Dock Classic,14302.62,2695.99,49,20,18.8
+Bevis Table Value,14275.41,1510.36,42,20,10.6
+O'Sullivan Bookcase Value,14122.74,2325.96,56,25,16.5
+Bretford Conference Table Standard,13979.02,1662.82,40,17,11.9
+O'Sullivan Bookcase Standard,13857.34,1102.9,59,22,8.0
+Cubify 3D Printer Deluxe,13843.81,-1688.9,24,12,-12.2
+Bevis Table Deluxe,13829.5,1187.24,41,16,8.6
+Chromcraft Round Table Value,13685.59,1404.24,41,15,10.3
+Cisco IP Phone Standard,13532.68,2052.85,46,17,15.2
+Hon Task Chair Standard,13464.95,3281.4,77,29,24.4
+Samsung Galaxy Dock Deluxe,13446.369999999999,1693.09,54,19,12.6
+Apple iPhone Accessory Pro,13428.59,2796.17,46,17,20.8
+Chromcraft Round Table Pro,12996.68,2183.19,37,15,16.8
+Harbour Creations Chair Value,12757.82,2596.83,65,27,20.4
+Sauder Bookcase Deluxe,12605.66,1862.8,56,20,14.8
+Hon Task Chair Value,12546.57,2930.49,71,30,23.4
+Apple iPhone Accessory Value,12543.119999999999,2268.04,47,21,18.1
+Bretford Conference Table Pro,12523.54,-200.25,50,20,-1.6
+Samsung Galaxy Dock Pro,12477.89,1959.73,44,15,15.7
+Cisco IP Phone Value,12421.4,3118.5,36,14,25.1
+Apple iPhone Accessory Classic,11302.6,1913.76,40,16,16.9
+Sauder Bookcase Classic,10937.52,1669.84,46,20,15.3
+O'Sullivan Bookcase Classic,10835.05,1403.03,49,21,12.9
+Chromcraft Round Table Standard,10663.74,1314.68,33,14,12.3
+Sauder Bookcase Standard,10602.59,1702.19,46,18,16.1
+Apple iPhone Accessory Standard,10528.82,2492.96,32,15,23.7
+Cisco IP Phone Classic,10481.46,1869.1399999999999,34,16,17.8
+Harbour Creations Chair Pro,10353.17,1310.06,67,25,12.7
+Hon Task Chair Pro,10333.619999999999,2556.07,56,26,24.7
+Hoover Vacuum Deluxe,10198.53,2927.79,79,27,28.7
+Honeywell Fan Pro,10090.87,2860.4,85,28,28.3
+Cisco IP Phone Deluxe,10065.15,2334.15,30,11,23.2
+Global Deluxe Chair Standard,10040.11,1737.99,62,23,17.3
+Samsung Galaxy Dock Value,9863.84,1243.75,39,13,12.6
+Sauder Bookcase Value,9764.58,1080.55,50,19,11.1
+Avanti Refrigerator Deluxe,9596.57,2266.5,87,32,23.6
+Fellowes File Cart Deluxe,9376.6,2861.94,112,35,30.5
+Global Deluxe Chair Pro,9371.0,2149.91,54,21,22.9
+Harbour Creations Chair Deluxe,9216.05,751.5799999999999,65,25,8.2
+Bush Classic Bookcase Deluxe,9199.2,1588.44,39,18,17.3
+Hon Task Chair Classic,8671.130000000001,1546.74,42,16,17.8
+Global Deluxe Chair Value,8609.6,2166.14,40,18,25.2
+Harbour Creations Chair Standard,8588.0,2051.2400000000002,44,18,23.9
+Global Deluxe Chair Deluxe,8413.57,1627.72,51,24,19.3
+Bush Classic Bookcase Value,8372.31,1568.62,35,13,18.7
+Fellowes File Cart Pro,7890.84,2431.6,101,42,30.8
+Avanti Refrigerator Classic,7844.88,2436.71,64,26,31.1
+IRIS Storage Box Pro,7686.32,2689.46,84,32,35.0
+Global Deluxe Chair Classic,7664.99,865.6,44,15,11.3
+Honeywell Fan Standard,7539.44,2503.71,57,28,33.2
+Cisco IP Phone Pro,7320.86,1019.2700000000001,26,10,13.9
+Apple iPhone Accessory Deluxe,7185.07,745.97,29,13,10.4
+Bush Classic Bookcase Pro,7174.05,-36.920000000000016,38,14,-0.5
+IRIS Storage Box Value,7073.26,2326.95,87,34,32.9
+Avanti Refrigerator Pro,7051.59,2013.25,66,24,28.6
+Samsung Galaxy Dock Standard,6989.83,898.63,25,12,12.9
+Fellowes File Cart Standard,6963.04,2322.5899999999997,76,29,33.4
+Honeywell Fan Value,6845.58,2192.4,53,19,32.0
+SAFCO Storage Bin Pro,6752.78,1858.39,86,34,27.5
+Harbour Creations Chair Classic,6573.55,1327.15,37,18,20.2
+Hoover Vacuum Value,6435.15,1465.18,61,23,22.8
+Hon Task Chair Deluxe,6349.69,1704.67,32,16,26.8
+Hoover Vacuum Classic,6103.26,1937.03,50,23,31.7
+Honeywell Fan Deluxe,6098.7,1874.99,49,19,30.7
+Avanti Refrigerator Standard,5930.07,1754.8500000000001,50,23,29.6
+Avanti Refrigerator Value,5721.7,1743.57,53,21,30.5
+IRIS Storage Box Standard,5461.54,1571.04,72,30,28.8
+Honeywell Fan Classic,5283.64,1226.3799999999999,48,23,23.2
+Fellowes File Cart Classic,5255.54,1254.6200000000001,65,26,23.9
+SAFCO Storage Bin Value,5183.03,1677.49,65,27,32.4
+Hoover Vacuum Pro,4713.86,1413.71,38,17,30.0
+Hoover Vacuum Standard,4652.54,1163.78,50,19,25.0
+SAFCO Storage Bin Standard,4637.68,1576.46,54,20,34.0
+SAFCO Storage Bin Classic,4461.2699999999995,965.94,61,23,21.7
+IRIS Storage Box Deluxe,4258.25,1319.83,55,22,31.0
+SAFCO Storage Bin Deluxe,4238.81,1260.45,60,23,29.7
+Fellowes File Cart Value,4196.48,1326.05,50,23,31.6
+Eldon Desk Lamp Value,3248.13,1202.56,68,27,37.0
+Eldon Desk Lamp Classic,3208.9,1268.13,68,24,39.5
+IRIS Storage Box Classic,3159.06,1223.35,39,18,38.7
+Tenex Chairmat Value,3067.93,998.92,66,28,32.6
+Eldon Desk Lamp Pro,2932.93,1023.5,57,20,34.9
+Fellowes Wall Clock Classic,2829.33,932.32,63,29,33.0
+Fellowes Wall Clock Pro,2785.57,1068.89,61,27,38.4
+Stanley Hole Punch Classic,2469.1,1161.3799999999999,112,46,47.0
+SanDisk USB Drive Value,2433.09,963.53,57,22,39.6
+Tenex Chairmat Classic,2379.53,861.31,49,24,36.2
+Elmer's Glue Pack Classic,2304.54,1060.18,111,46,46.0
+Tenex Chairmat Standard,2153.0,784.9,48,19,36.5
+Logitech Mouse Value,2150.88,918.4,58,22,42.7
+Belkin Cable Value,2150.8,866.62,51,22,40.3
+Elmer's Glue Pack Standard,2039.5900000000001,921.71,96,38,45.2
+Belkin Cable Pro,2012.46,855.09,51,20,42.5
+Tenex Chairmat Pro,2010.56,682.9,42,19,34.0
+Belkin Cable Deluxe,1998.0800000000002,842.24,47,14,42.2
+Fellowes Wall Clock Value,1977.3,496.92,45,18,25.1
+Stanley Hole Punch Pro,1931.79,928.55,86,35,48.1
+Fellowes Wall Clock Standard,1899.8500000000001,598.58,41,16,31.5
+Elmer's Glue Pack Value,1797.75,854.59,79,35,47.5
+Logitech Mouse Standard,1793.6,701.0600000000001,45,15,39.1
+SanDisk USB Drive Standard,1735.32,610.0600000000001,45,20,35.2
+Fellowes Wall Clock Deluxe,1682.27,640.5,31,12,38.1
+Elmer's Glue Pack Pro,1660.6299999999999,793.09,79,33,47.8
+Stanley Hole Punch Deluxe,1646.97,805.34,75,32,48.9
+Stanley Hole Punch Value,1634.21,810.75,70,29,49.6
+Tenex Chairmat Deluxe,1629.83,552.16,33,16,33.9
+Stanley Hole Punch Standard,1608.3,729.42,86,34,45.4
+Logitech Mouse Pro,1566.11,689.7,35,16,44.0
+Elmer's Glue Pack Deluxe,1543.8,682.75,76,30,44.2
+Kraft Clasp Envelope Value,1507.3,875.03,116,41,58.1
+Belkin Cable Standard,1506.95,633.5,36,17,42.0
+Belkin Cable Classic,1502.91,644.4300000000001,35,13,42.9
+Eldon Desk Lamp Deluxe,1365.3999999999999,455.74,34,13,33.4
+Poly String Envelope Value,1336.97,742.94,108,40,55.6
+Eldon Desk Lamp Standard,1333.03,448.18,28,14,33.6
+Poly String Envelope Standard,1320.36,690.58,118,48,52.3
+Logitech Mouse Classic,1302.47,553.1,32,13,42.5
+Poly String Envelope Deluxe,1279.57,729.59,98,37,57.0
+Wilson Jones Binder Standard,1256.92,677.34,78,27,53.9
+Sharpie Marker Set Deluxe,1230.7,619.52,92,35,50.3
+Poly String Envelope Classic,1218.97,666.5,105,42,54.7
+Wilson Jones Binder Value,1174.3899999999999,649.08,79,25,55.3
+Logitech Mouse Deluxe,1166.15,465.01,36,13,39.9
+Acco Binder Deluxe,1162.21,626.87,70,32,53.9
+Sharpie Marker Set Classic,1113.33,572.13,74,33,51.4
+Wilson Jones Binder Classic,1102.9,601.2,66,25,54.5
+Kraft Clasp Envelope Standard,1040.69,581.15,89,35,55.8
+Prismacolor Pencils Standard,1033.38,498.77,84,31,48.3
+GBC Binding System Standard,998.96,505.47,67,29,50.6
+Sharpie Marker Set Standard,984.19,496.8,66,26,50.5
+SanDisk USB Drive Deluxe,959.63,343.47,24,11,35.8
+Kraft Clasp Envelope Deluxe,937.46,487.98,78,32,52.1
+GBC Binding System Value,916.76,481.15,60,22,52.5
+Newell Scissors Standard,916.54,426.76,79,32,46.6
+Poly String Envelope Pro,906.28,539.0600000000001,67,25,59.5
+Prismacolor Pencils Value,891.11,458.86,62,25,51.5
+Sharpie Marker Set Value,887.04,443.45,65,28,50.0
+SanDisk USB Drive Pro,882.16,355.46999999999997,22,14,40.3
+Xerox Multipurpose Paper Deluxe,870.07,538.7,80,30,61.9
+Xerox Multipurpose Paper Standard,860.73,500.15,80,29,58.1
+Newell Scissors Classic,856.82,450.96999999999997,63,25,52.6
+Kraft Clasp Envelope Classic,848.27,405.72,88,37,47.8
+Newell Scissors Deluxe,843.56,390.32,67,25,46.3
+Wilson Jones Binder Deluxe,839.24,446.52,53,19,53.2
+GBC Binding System Deluxe,838.65,427.34,60,23,51.0
+GBC Binding System Pro,836.6,404.19,55,22,48.3
+Avery Label Set Pro,829.04,502.89,103,40,60.7
+Sharpie Marker Set Pro,825.68,426.46,59,20,51.6
+Xerox Multipurpose Paper Pro,818.71,492.9,75,28,60.2
+GBC Binding System Classic,814.99,436.96,63,22,53.6
+Sharpie Label Tape Classic,804.9499999999999,498.5,111,43,61.9
+Prismacolor Pencils Classic,804.69,443.19,52,21,55.1
+Prismacolor Pencils Deluxe,803.43,403.85,59,23,50.3
+SanDisk USB Drive Classic,794.41,328.56,19,11,41.4
+Avery Label Set Standard,785.76,459.62,107,38,58.5
+Acco Binder Standard,777.93,349.04,62,25,44.9
+HP Premium Paper Deluxe,766.4,438.98,73,24,57.3
+Acco Binder Pro,764.03,385.81,51,24,50.5
+Newell Scissors Pro,742.91,384.15,55,23,51.7
+Acco Binder Value,723.35,362.86,49,20,50.2
+Acco Binder Classic,695.9499999999999,334.75,50,25,48.1
+Prismacolor Pencils Pro,695.4,307.57,58,26,44.2
+Boise Copy Paper Deluxe,691.45,409.82,60,22,59.3
+Kraft Clasp Envelope Pro,675.61,327.58,67,26,48.5
+Xerox Multipurpose Paper Value,663.11,384.51,65,28,58.0
+Avery Label Set Deluxe,643.16,391.21000000000004,87,33,60.8
+ACCO Fasteners Value,642.54,422.3,98,36,65.7
+ACCO Fasteners Deluxe,636.87,421.53,100,41,66.2
+Boise Copy Paper Classic,634.11,377.21,65,28,59.5
+ACCO Fasteners Standard,604.85,395.32,103,43,65.4
+HP Premium Paper Classic,604.75,371.99,56,20,61.5
+Newell Scissors Value,601.89,285.23,51,23,47.4
+Sharpie Label Tape Deluxe,601.17,374.15,72,36,62.2
+Sharpie Label Tape Standard,581.38,330.0,89,35,56.8
+Avery Label Set Classic,580.87,356.46,72,29,61.4
+Boise Copy Paper Value,576.97,332.46,59,27,57.6
+Wilson Jones Binder Pro,572.73,312.05,35,17,54.5
+Bostitch Staples Deluxe,567.3,363.34,98,44,64.0
+Sharpie Label Tape Value,551.26,318.81,76,35,57.8
+Bostitch Staples Standard,510.61,315.12,88,37,61.7
+Bostitch Staples Value,494.38,303.08,88,40,61.3
+Avery Label Set Value,493.24,307.4,67,27,62.3
+HP Premium Paper Standard,479.51,258.29,52,23,53.9
+HP Premium Paper Value,463.09000000000003,234.22,59,18,50.6
+ACCO Fasteners Pro,453.55,271.21,81,36,59.8
+Sharpie Label Tape Pro,444.49,263.40999999999997,62,22,59.3
+ACCO Fasteners Classic,436.96,273.26,78,38,62.5
+Xerox Multipurpose Paper Classic,422.55,231.04,49,19,54.7
+Boise Copy Paper Pro,417.88,249.38,44,18,59.7
+Bostitch Staples Pro,381.68,233.87,73,36,61.3
+Bostitch Staples Classic,380.99,251.88,67,25,66.1
+HP Premium Paper Pro,352.58,210.59,31,17,59.7
+Boise Copy Paper Standard,352.18,215.25,37,14,61.1
